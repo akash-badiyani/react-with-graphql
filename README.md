@@ -20,7 +20,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Set Access Token
-
+Create an .env file and set the access token.\
 * Create a file `.env` in root folder.
 * create a variable `REACT_APP_GITHUB_ACCESS_TOKEN` and assign your github access token
 * start the application using `npm install`
